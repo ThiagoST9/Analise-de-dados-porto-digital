@@ -21,17 +21,14 @@ O objetivo do treinamento foi apresentar conceitos e técnicas de análise de da
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 
-*(Ajuste a lista conforme as tecnologias realmente utilizadas.)*
+
 
 ## Estrutura do Projeto
 
 ```text
 ├── dados/
 │   └── arquivos utilizados nas análises
-├── notebooks/
-│   └── análises e exercícios desenvolvidos
 ├── imagens/
 │   └── gráficos e resultados
 └── README.md
